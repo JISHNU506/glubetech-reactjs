@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/glubetech-reactjs/static/css/main.c5063b80.css",
+    "main.js": "/glubetech-reactjs/static/js/main.7793a3aa.js",
+    "static/js/787.3d547f4b.chunk.js": "/glubetech-reactjs/static/js/787.3d547f4b.chunk.js",
+    "index.html": "/glubetech-reactjs/index.html",
+    "main.c5063b80.css.map": "/glubetech-reactjs/static/css/main.c5063b80.css.map",
+    "main.7793a3aa.js.map": "/glubetech-reactjs/static/js/main.7793a3aa.js.map",
+    "787.3d547f4b.chunk.js.map": "/glubetech-reactjs/static/js/787.3d547f4b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5063b80.css",
+    "static/js/main.7793a3aa.js"
+  ]
+}
